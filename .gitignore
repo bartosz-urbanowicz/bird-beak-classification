@@ -1,4 +1,6 @@
 data
+model.weights.h5
+model_architecture.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
